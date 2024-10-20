@@ -1,0 +1,5 @@
+[
+    {"id": 100, "name": "Jan Kowalski", "city": "Warszawa"},
+    {"id": 200, "name": "Anna Wisniewska", "city": "Krakow"},
+    {"id": 300, "name": "Ivan Prokopenko", "city": "Lodz"}
+]

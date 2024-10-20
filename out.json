@@ -1,0 +1,17 @@
+[
+    {
+        "id": "500",
+        "name": "Jan Kowalski",
+        "city": "Warszawa"
+    },
+    {
+        "id": 200,
+        "name": "Till Lindeman",
+        "city": "Krakow"
+    },
+    {
+        "id": 300,
+        "name": "Ivan Prokopenko",
+        "city": "Poznan"
+    }
+]
